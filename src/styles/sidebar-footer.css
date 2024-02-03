@@ -11,6 +11,8 @@ body{
     bottom: 0;
     padding: 12px;
     width: 300px;
+    background-color: #000000;
+    
 
 }
 
@@ -23,12 +25,19 @@ body{
 
 
 .sidebar_navigation .logo img {
-    width: 30px;
+    width: 100px;
 
 }
 
+.sidebar__navigation {
+    background-color: #121212;
+    border-radius: 8px;
+    cursor: pointer;
+}
 
-.sidebarnav ul{
+
+.sidebar nav ul{
+    list-style: none;
     margin-top: 20px;
     padding: 0 20px 10 px 20px;
 }
@@ -41,8 +50,10 @@ body{
     color: #b3b3b3;
     text-decoration: none;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 16px;
 }
+
+
 
 .library{
     background-color: #121212;
