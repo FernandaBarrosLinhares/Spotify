@@ -1,4 +1,4 @@
-#Imersão Alura - Clone da pagina do Spotify
+# Imersão Alura - Clone da pagina do Spotify
 
 ###  Aula 1
 
